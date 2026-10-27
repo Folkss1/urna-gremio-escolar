@@ -1,0 +1,13 @@
+# Dados de eleições: criados localmente ao iniciar o servidor.
+/dados/
+
+# Credenciais, dependências e arquivos temporários locais.
+.env
+.env.*
+!.env.example
+node_modules/
+*.log
+*.tmp
+*.zip
+.DS_Store
+Thumbs.db

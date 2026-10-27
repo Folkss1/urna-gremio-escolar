@@ -1,0 +1,8 @@
+{
+  "titulo": "Eleição do Grêmio Estudantil",
+  "chapas": [
+    { "numero": "01", "nome": "Heróis do Grêmio", "imagem": "/imagens/chapa-01.jpeg" },
+    { "numero": "02", "nome": "Unidos pela Escola", "imagem": "/imagens/chapa-02.jpeg" },
+    { "numero": "03", "nome": "Caminho Brilhante", "imagem": "/imagens/chapa-03.jpeg" }
+  ]
+}
